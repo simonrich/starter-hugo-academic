@@ -1,6 +1,7 @@
 ---
 title: Simon Richter
 role: Research Fellow
+avatar_filename: richter57.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
